@@ -27,7 +27,8 @@ export const HomePage = () => {
 
           <div className="flex items-center ">
             <Image
-              src="https://cdn-icons-gif.flaticon.com/6172/6172541.gif"
+             
+ src="https://cdn-icons-gif.flaticon.com/6172/6172541.gif"
               alt="icon"
               width={25}
               height={25}

@@ -13,8 +13,7 @@ export const HomePage = () => {
           </div>
           <h1 className="font-bold text-[25px]">TaskFlow</h1>
           <Image
-           
- src="https://cdn-icons-gif.flaticon.com/6172/6172541.gif"
+            src="https://cdn-icons-gif.flaticon.com/6172/6172541.gif"
             alt="icon"
             width={37}
             height={37}

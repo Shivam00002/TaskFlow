@@ -2,6 +2,7 @@ import Image from "next/image";
 import React from "react";
 
 export const HomePage = () => {
+
   return (
     <div className=" max-w-[1440px] max-h-[1024px] mx-auto border border-red-600 flex">
       <div className="w-[300px] h-screen border">

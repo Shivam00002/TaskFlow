@@ -19,6 +19,7 @@ export const HomePage = () => {
             width={37}
             height={37}
           />
+
         </div>
         <div className="w-full h-[226px] mt-8 border">
           <p className="text-center text-[14px] tracking-[3px] text-gray-500 ">
